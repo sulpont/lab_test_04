@@ -29,6 +29,7 @@ function App() {
 
   return (
     <>
+      <h2>deploy check...!</h2>
       {/* Form.jsxを読み込みましょう */}
       <Form />
 
